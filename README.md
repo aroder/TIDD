@@ -32,5 +32,5 @@ All rights reserved, until I can identify a permissive license that encourages p
 
 #### Disclaimer
 
-* Neither I nor anyone involved assumes any responsibility for any consequence of using this information. All investment decisions are your own. TIDD is for informational purposes and is not intended to (a) constitute legal advice (b) create an attorney-client relationship (c) be advertising or a solicitation of any type.*
+*Neither I nor anyone involved assumes any responsibility for any consequence of using this information. All investment decisions are your own. TIDD is for informational purposes and is not intended to (a) constitute legal advice (b) create an attorney-client relationship (c) be advertising or a solicitation of any type.*
 
