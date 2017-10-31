@@ -2,7 +2,7 @@
 
 ## About
 
-Welcome to the GitHub repository for the Tech Investment Due Diligence, a checklist and framework for identifying risk and opportunity in technology investments. TIDD attempts to be lean and easy to use, without sacrificing coverage. 
+Welcome to the GitHub repository for the Tech Investment Due Diligence, a checklist and framework for identifying risk and opportunity in technology investments.  
 
 ## Who is this for?
 
@@ -14,6 +14,13 @@ Anyone putting money into a deal should perform sufficient due diligence. Not ev
 * Family Offices
 * Individuals purchasing a company
 * Anyone with a comp package involving equity
+
+## Principles
+
+#. Have sufficient coverage
+#. Scale to small and large deals
+#. Be understood by non-techies
+#. Don't be a burden
 
 ## Contributing
 
