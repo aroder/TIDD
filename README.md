@@ -17,10 +17,10 @@ Anyone putting money into a deal should perform sufficient due diligence. Not ev
 
 ## Principles
 
-#. Have sufficient coverage
-#. Scale to small and large deals
-#. Be understood by non-techies
-#. Don't be a burden
+1. Have sufficient coverage
+1. Scale to small and large deals
+1. Be understood by non-techies
+1. Don't be a burden
 
 ## Contributing
 
